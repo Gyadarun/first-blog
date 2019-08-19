@@ -1,1 +1,1 @@
-3w academy test project, simple blog using php and materialize
+3w academy test project i did in 2018, simple blog using php and materialize
