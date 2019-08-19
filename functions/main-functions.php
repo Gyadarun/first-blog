@@ -3,10 +3,10 @@
     session_start();
 
     
-    $dbhost = 'amaurylfdv1984.mysql.db';
-    $dbname = 'amaurylfdv1984';
-    $dbuser = 'amaurylfdv1984';
-    $dbpswd = 'letaPiss84';
+    $dbhost = 'host';
+    $dbname = 'yourdbname';
+    $dbuser = 'username';
+    $dbpswd = 'password';
     
 
     try{
